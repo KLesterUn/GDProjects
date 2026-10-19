@@ -1,2 +1,2 @@
 # GDProjects
-My first light project from my GD class
+This will be a storage for my light projects and progress of my game design course
